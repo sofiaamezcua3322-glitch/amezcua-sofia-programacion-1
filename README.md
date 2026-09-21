@@ -64,7 +64,7 @@ Una vez que termine de descargar, métete a la carpeta que se acaba de crear esc
 cd amezcua-sofia-programacion-1
 
 3. Ábrelo en Visual Studio Code
-Como ya tenemos configurado VS Code, para abrir todos los archivos de golpe directo ahí, nada más pon:
+Como ya tenemos configurado VS Code, para abrir todos los archivos de golpe directo ahí, nada más escribe:
 
 code .
 
