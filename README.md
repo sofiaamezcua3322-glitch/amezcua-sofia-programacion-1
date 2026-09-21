@@ -1,4 +1,7 @@
 # amezcua-sofia-programacion-1
-Practica de clase
 
-## Sofia Amezcua Rosales
+Sofia Amezcua Rosales
+
+Programación I
+
+Licenciatura en Creatividad Digital
