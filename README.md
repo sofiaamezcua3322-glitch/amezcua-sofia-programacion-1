@@ -55,20 +55,17 @@ Solución al Problema 2: Una vez que la terminal integrada reconoció correctame
 1. Clona el repositorio
 Abre tu terminal (el Símbolo del sistema, PowerShell o la terminal de Git Bash) en la carpeta donde quieras guardar el proyecto y pega este comando:
 
-Bash
 git clone https://github.com/sofiaamezcua3322-glitch/amezcua-sofia-programacion-1
 (Nota: Debes tener Git instalado en tu computadora para que este comando funcione).
 
 2. Entra a la carpeta del proyecto
 Una vez que termine de descargar, métete a la carpeta que se acaba de crear escribiendo esto:
 
-Bash
 cd amezcua-sofia-programacion-1
 
 3. Ábrelo en Visual Studio Code
 Como ya tenemos configurado VS Code, para abrir todos los archivos de golpe directo ahí, nada más pon:
 
-Bash
 code .
 
 4. ¡Listo para trabajar!
