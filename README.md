@@ -47,3 +47,35 @@ Problema 2 (Módulos no encontrados): Al intentar hacer pruebas con el código d
 Solución al Problema 1: Este problema derivó de no haber marcado la casilla "Add Python to PATH" durante la instalación inicial del lenguaje. Para resolverlo directamente desde el IDE, se abrió la Paleta de Comandos (Ctrl+Shift+P), se buscó la opción "Python: Select Interpreter" y se seleccionó manualmente la ruta del ejecutable de Python instalado en el equipo. Después de esto, se cerró y se volvió a abrir la terminal de VS Code para que se actualizaran las rutas.
 
 Solución al Problema 2: Una vez que la terminal integrada reconoció correctamente a Python, se procedió a instalar la librería faltante para el desarrollo del juego. En la misma terminal de VS Code, se introdujo el comando pip install pygame. Una vez finalizada la descarga de los paquetes, los scripts interactivos comenzaron a compilarse y ejecutarse correctamente sin errores de dependencias.
+
+----------
+
+##  Instrucciones breves de cómo clonar y usar el repositorio
+
+1. Clona el repositorio
+Abre tu terminal (el Símbolo del sistema, PowerShell o la terminal de Git Bash) en la carpeta donde quieras guardar el proyecto y pega este comando:
+
+Bash
+git clone https://github.com/sofiaamezcua3322-glitch/amezcua-sofia-programacion-1
+(Nota: Debes tener Git instalado en tu computadora para que este comando funcione).
+
+2. Entra a la carpeta del proyecto
+Una vez que termine de descargar, métete a la carpeta que se acaba de crear escribiendo esto:
+
+Bash
+cd amezcua-sofia-programacion-1
+
+3. Ábrelo en Visual Studio Code
+Como ya tenemos configurado VS Code, para abrir todos los archivos de golpe directo ahí, nada más pon:
+
+Bash
+code .
+
+4. ¡Listo para trabajar!
+Ya dentro de VS Code, vas a ver todos los archivos de la clase del lado izquierdo. Para usarlo:
+
+Abre el archivo de Python (o el código que vayamos a usar) dándole doble clic.
+
+Asegúrate de que el intérprete esté seleccionado abajo a la derecha.
+
+Dale al botón de "Run" (el triangulito arriba a la derecha) para correr el código.
