@@ -68,8 +68,7 @@ Como ya tenemos configurado VS Code, para abrir todos los archivos de golpe dire
 
 code .
 
-4. ¡Listo para trabajar!
-Ya dentro de VS Code, vas a ver todos los archivos de la clase del lado izquierdo. Para usarlo:
+4. Ya dentro de VS Code, vas a ver todos los archivos de la clase del lado izquierdo. Para usarlo:
 
 Abre el archivo de Python (o el código que vayamos a usar) dándole doble clic.
 
