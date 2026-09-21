@@ -18,7 +18,7 @@ Proyectos: Proyecto final y proyectos personales
 
 ----------
 
-Bitácora de Instalación y Configuración del IDE
+## Bitácora de Instalación y Configuración del IDE
 
 Fecha: 21 de septiembre de 2026
 
