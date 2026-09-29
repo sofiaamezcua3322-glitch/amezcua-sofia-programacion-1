@@ -4,7 +4,7 @@ edad =21
 ciudad = "Guadalajara"
 print(nombre, edad, ciudad)
 
-#Ejercicio 2 Actualiar contador
+#Ejercicio 2 Actualizar contador
 contador = 0
 operacion1 = 1
 operacion2 = 2
